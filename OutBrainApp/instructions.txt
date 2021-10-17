@@ -1,5 +1,5 @@
 ## Commands instructions
-## install Dcker on ubuntu 20.04
+## install Docker on ubuntu 20.04
 apt-get install -y docker docker-compose
 
 ## download ubuntu:latest image:
