@@ -1,9 +1,9 @@
 ## Commands instructions
+## install Dcker on ubuntu 20.04
+apt-get install -y docker docker-compose
 
 ## download ubuntu:latest image:
 docker pull ubuntu:latest
-
-## Download the OutBrainApp Directory 
 
 ## Build myapp:latest according to Dockerfile inside OutbrainApp Directory:
 cd OutBrainApp
